@@ -1,2 +1,2 @@
-# lab-empty-repository
-Empty template for lab exercises
+# Lab title
+Report goes here
